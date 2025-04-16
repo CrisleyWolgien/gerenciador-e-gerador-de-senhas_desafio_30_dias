@@ -1,0 +1,53 @@
+{
+    "senhas_personalizadas": {
+        "1": {
+            "name": "emails pessoais",
+            "password": "minhaSenha123",
+            "appsUsed": [
+                "Gmail",
+                "YouTube"
+            ]
+        },
+        "2": {
+            "name": "bancos antigos",
+            "password": "senhanadasegura1234",
+            "appsUsed": [
+                "Banco do Brasil",
+                "Caixa"
+            ]
+        },
+        "3": {
+            "name": "senha jogos",
+            "password": "jogos123",
+            "appsUsed": [
+                "stem. epic"
+            ]
+        },
+        "4": {
+            "name": "bancos novos",
+            "password": "supersenha132",
+            "appsUsed": [
+                "sicredi",
+                "nubank"
+            ]
+        }
+    },
+    "senhas_aleatorias": {
+        "3": {
+            "name": "filmes",
+            "password": "EFh$RSMTk6",
+            "appsUsed": [
+                "netflix",
+                "hbomax"
+            ]
+        },
+        "4": {
+            "name": "senha email corporativo ",
+            "password": "O*a*lnpeC2",
+            "appsUsed": [
+                "gmail",
+                "outlook"
+            ]
+        }
+    }
+}
